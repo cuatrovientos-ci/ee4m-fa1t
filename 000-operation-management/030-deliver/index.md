@@ -25,7 +25,7 @@ The theoretical contents of the course are shown below.
 
 {% assign files = site.static_files  %}
 {% for file in files   %}
-{% if file.path contains page.permalink and file.path contains  'pdf' %}
+{% if file.path contains page.url and file.path contains  'pdf' %}
 [{{ file.basename }}]( {{  site.baseurl }}{{ file.path }})
 {% endif %}
 {% endfor %}

@@ -1,6 +1,7 @@
 ---
 title: "010 Directing the Operation"
 permalink: 010-directing-the-operation.html
+url: "010-directing-the-operation"
 layout: page
 ---
 
@@ -22,13 +23,10 @@ You can download the SCORM package to be integrated into an LMS, e.g. Moodle.
 ## Content
 The theoretical contents of the course are shown below.
 
-{{page.permalink}}
-
 {% assign files = site.static_files  %}
 
 {% for file in files   %}
-{{file.path }}
-{% if file.path contains page.permalink and file.path contains  'pdf' %}
+{% if file.path contains page.url and file.path contains  'pdf' %}
 [{{ file.basename }}]( {{  site.baseurl }}{{ file.path }})
 {% endif %}
 {% endfor %}
