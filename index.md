@@ -1,7 +1,6 @@
 ---
 layout: home
 title: "Introduction to Operation Management"
-module: "000"
 ---
 
 ### Introduction to Operation Management: Centro Integrado Cuatrovientos
@@ -17,7 +16,7 @@ The course offers an essential overview of managing organizational operations. I
   - Strategic Thinking
 
 {% assign pages = site.pages  %}
-{% for module in pages  | | sort: 'title'   %}
+{% for module in pages  | | sort: module.title   %}
 [{{ module.title }}]({{ module.permalink }})
 {% endfor %}
 
