@@ -28,6 +28,7 @@ The theoretical contents of the course are shown below.
 {% for file in files   %}
 {% if file.path contains page.slug and file.path contains  'pdf' %}
 [{{ file.basename }}]( {{  site.baseurl }}{{ file.path }})
+{% endif %}
 {% endfor %}
 
 
