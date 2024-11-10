@@ -22,10 +22,10 @@ You can download the SCORM package to be integrated into an LMS, e.g. Moodle.
 ## Content
 The theoretical contents of the course are shown below.
 
-page.permalink
+{{page.permalink}}
 
 {% assign files = site.static_files  %}
-file.path 
+{{file.path }}
 {% for file in files   %}
 {% if file.path contains page.permalink and file.path contains  'pdf' %}
 [{{ file.basename }}]( {{  site.baseurl }}{{ file.path }})
