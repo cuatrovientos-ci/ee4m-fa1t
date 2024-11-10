@@ -1,0 +1,69 @@
+{
+  "modules": [
+    {
+      "title": "Module 1.0: Directing the operation",
+      "courses": [
+        {
+          "id": 1,
+          "title": "Course 1.1: Introduction to Operations Management",
+          "units": [
+            {
+              "id": 1,
+              "title": "Unit 1.1.1: Introduction to Operations Management",
+              "content": {
+                "video": "https://drive.google.com/file/d/11dbwM1mzc6ZE7qdU0AihbqBsaLpkz6Ao/preview",
+                "textbook": "https://anderfrago.github.io/ee4m-cic/000-operation-management/010-directing-the-operation/011-what-is-om.pdf", 
+                "exercise": "https://cic-ee4m.h5p.com/content/1292391264061670677/embed",   
+                "slides": "https://docs.google.com/presentation/d/11_cPkys-tAqRFobsr5qhF0gByjtxOSH8/preview",
+                "quiz": "https://quizlet.com/953834214/match/embed?i=13hssg&x=1jj1"             
+              }
+            }              
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Course 1.2: Operation Strategy and competitiveness",
+          "units": [
+            {
+              "id": 1,
+              "title": "Unit 1.2.1: Operation Strategy",
+              "content": {
+                "video": "https://drive.google.com/file/d/15h52cRY4xDYEs4VL2abcU1VXLF7xvNWQ/preview",
+                "textbook": "https://anderfrago.github.io/ee4m-cic/000-operation-management/010-directing-the-operation/012-operation-strategy-competitiveness.pdf",
+                "slides": "https://docs.google.com/presentation/d/11mx9u1Ls57_P4G2uhxeuGj-QYe06M0EE/preview",
+                "exercise": "https://cic-ee4m.h5p.com/content/1292399136251366837/embed"
+              }
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Course 1.3: Digital transformation",
+          "units": [
+            {
+              "id": 1,
+              "title": "Unit 1.3.1: Re-engineering & Digital Transformation",
+              "content": {
+                "video": "https://www.youtube.com/embed/K3t0RTxvcK8?si=0-3TUcqcCMZAMy2A",
+                "textbook": "https://anderfrago.github.io/ee4m-cic/000-operation-management/010-directing-the-operation/013-digital-transformations.pdf"
+              }
+            }              
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Course 1.4: PL-300 Microsoft Power BI Data Analyst ",
+          "units": [
+            {
+              "id": 1,
+              "title": "Unit 1.4.1: Introduction to Power BI",
+              "content": {
+                "textbook": "https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst"
+              }
+            }              
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest identifier="AF.EE4M.CICOMCourse.91d4db78-1abd-4623-80eb-d12c21b3ee29" version="1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="EE4M">
+    <organization identifier="EE4M">
+      <title>CIC OM Course</title>
+      <item identifier="item_AF.EE4M.CICOMCourse.91d4db78-1abd-4623-80eb-d12c21b3ee29" identifierref="resource_AF.EE4M.CICOMCourse.91d4db78-1abd-4623-80eb-d12c21b3ee29">
+        <title>CIC OM Course</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+        <metadata>
+          <schema>ADL SCORM</schema>
+          <schemaversion>1.2</schemaversion>
+          <adlcp:location>metadata.xml</adlcp:location>
+        </metadata>
+      </item>
+      <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+    </organization>
+  </organizations>
+  <resources>
+    <metadata>
+      <schema>ADL SCORM</schema>
+      <schemaversion>1.2</schemaversion>
+      <adlcp:location>metadata.xml</adlcp:location>
+    </metadata>
+    <resource identifier="resource_AF.EE4M.CICOMCourse.91d4db78-1abd-4623-80eb-d12c21b3ee29" type="webcontent" href="index.html" adlcp:scormtype="sco">
+      <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+      <file href="1a51dfbe5467607389d603c02a77cd10.woff"/>
+      <file href="b8e42971dec8d49207a8c8e2b919a6ac.ttf"/>
+      <file href="bundle.js"/>
+      <file href="ed62b9f1e0c75121f4d797a4a85730a2.woff2"/>
+      <file href="images/ee4m-logo-big.png"/>
+      <file href="images/ee4m-logo-small.png"/>
+      <file href="images/europe-small.png"/>
+      <file href="index.html"/>
+    </resource>
+  </resources>
+</manifest>

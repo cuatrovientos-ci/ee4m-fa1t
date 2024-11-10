@@ -1,0 +1,15 @@
+remote_theme: anderfrago/ee4m-theme
+exclude:
+  - readme.md
+  - .github/
+header_pages:
+  - index.html
+author: Cuatrovientos
+plugins:
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jemoji
+markdown: kramdown
+kramdown:
+   syntax_highlighter_opts:
+      disable : true
