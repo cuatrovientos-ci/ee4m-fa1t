@@ -17,7 +17,7 @@ The course offers an essential overview of managing organizational operations. I
 
 {% assign pages = site.pages | sort: 'title'    %}
 {% for module in pages %}
-{% if module.layout != "home" && module.permalink != "" %}
+{% if module.layout == "page" %}
 [{{ module.title }}]({{ module.permalink }})
 {% endif %}
 {% endfor %}
