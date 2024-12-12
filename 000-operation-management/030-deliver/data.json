@@ -23,26 +23,35 @@
               "title": "Unit 3.1.2: Capacity management",
               "content": {
                 "video": "https://drive.google.com/file/d/1-JS4z1uA6cMqpKuo72AUpH9n1zVhbVqc/preview",
-                "textbook": "https://anderfrago.github.io/ee4m-cic/000-operation-management/030-deliver/032-capacity-management.pdf" ,
+                "textbook": "https://anderfrago.github.io/ee4m-cic/000-operation-management/030-deliver/032-capacity-management.pdf",
                 "slides": "https://docs.google.com/presentation/d/1MdZwWPMdjsGtIfpgMGewebeTRuHvn7Hf/preview"
               }
-            }  ,
+            },
             {
               "id": 3,
               "title": "Unit 3.1.3: Forecasting",
               "content": {
-                "textbook": "https://anderfrago.github.io/ee4m-cic/000-operation-management/030-deliver/033-forecasting.pdf" 
+                "textbook": "https://anderfrago.github.io/ee4m-cic/000-operation-management/030-deliver/033-forecasting.pdf"
               }
-            }     ,
+            },
             {
               "id": 4,
               "title": "Unit 3.1.4: Supply chain management",
               "content": {
-                "textbook": "https://anderfrago.github.io/ee4m-cic/000-operation-management/030-deliver/034-supply-chain-management.pdf" 
+                "textbook": "https://anderfrago.github.io/ee4m-cic/000-operation-management/030-deliver/034-supply-chain-management.pdf",
+                "slides": "https://docs.google.com/presentation/d/1Nfg5ItCc3RudlHGCyfKN4stHUZ5CcjH2/preview"
               }
-            }              
+            },
+            {
+              "id": 5,
+              "title": "Unit 3.1.5: Inventory",
+              "content": {
+                "textbook": "https://anderfrago.github.io/ee4m-cic/000-operation-management/030-deliver/035-inventory.pdf",
+                "slides": "https://docs.google.com/presentation/d/10IlH5NL-JmkDaBoUwTogpGCfBhm0QpLZ/preview"
+              }
+            }
           ]
-        }        
+        }
       ]
     }
   ]
