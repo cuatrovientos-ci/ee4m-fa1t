@@ -62,7 +62,22 @@
               "title": "Unit 3.3.1: Introduction to supply chain management",
               "content": {
                 "textbook": "https://anderfrago.github.io/ee4m-cic/000-operation-management/030-deliver/034-supply-chain-management.pdf",
-                "slides": "https://docs.google.com/presentation/d/1Nfg5ItCc3RudlHGCyfKN4stHUZ5CcjH2/preview"
+                "slides": "https://docs.google.com/presentation/d/1Nfg5ItCc3RudlHGCyfKN4stHUZ5CcjH2/preview",
+                "video": "https://drive.google.com/file/d/1ereR5EKNJXfKGWRadDhLXYvTC1doGm_H/preview"
+              }
+            },
+            {
+              "id": 2,
+              "title": "Unit 3.3.2: How is the supply chain managed",
+              "content": {
+                "video": "https://drive.google.com/file/d/1ereR5EKNJXfKGWRadDhLXYvTC1doGm_H/preview"
+              }
+            },
+            {
+              "id": 3,
+              "title": "Unit 3.3.3: Dynamics of supply chain",
+              "content": {
+                "video": ""
               }
             }
           ]
