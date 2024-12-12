@@ -22,7 +22,7 @@
           "title": "Course 4.2: Lean operations",
           "units": [
             {
-              "id": 2,
+              "id": 1,
               "title": "Unit 4.2.2: Introduction to Lean Operations",
               "content": {
                 "textbook": "https://anderfrago.github.io/ee4m-cic/000-operation-management/040-development/042-lean-operations.pdf",
