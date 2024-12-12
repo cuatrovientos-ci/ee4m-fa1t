@@ -91,7 +91,15 @@
               "title": "Unit 3.4.1: Introduction to inventory",
               "content": {
                 "textbook": "https://anderfrago.github.io/ee4m-cic/000-operation-management/030-deliver/035-inventory.pdf",
-                "slides": "https://docs.google.com/presentation/d/10IlH5NL-JmkDaBoUwTogpGCfBhm0QpLZ/preview"
+                "slides": "https://docs.google.com/presentation/d/10IlH5NL-JmkDaBoUwTogpGCfBhm0QpLZ/preview",
+                "video": "https://drive.google.com/file/d/1f9Ob06V9jQ6aLozQZp558uG7WMjjLIOw/preview"
+              }
+            },
+            {
+              "id": 2,
+              "title": "Unit 3.4.2: The News Vendor (Single-Period) Inventory Problem",
+              "content": {
+                "video": "https://drive.google.com/open?id=1f9QiN6AY9It0iAnkWQU4QZApknW6EAqb/preview"
               }
             }
           ]
