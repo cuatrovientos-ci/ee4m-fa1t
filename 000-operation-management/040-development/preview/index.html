@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <!-- <meta http-equiv="Content-Security-Policy"
+    content="default-src * 'unsafe-inline' 'unsafe-eval'; script-src * 'unsafe-inline' 'unsafe-eval'; connect-src * 'unsafe-inline'; img-src * blob: data:; frame-src * https://.h5p.com; style-src * 'unsafe-inline' blob: data:; child-src https://.h5p.com; frame-ancestors https://*.h5p.com"> -->
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="description" content="EE4M">
+  <meta name="author" content="ander_frago@cuatrovientos.orf">
+  <title>EE4M</title>
+  <link rel="icon" href="favicon.ico">
+</head>
+
+<body>
+  <div id="app"></div>
+
+  <script>
+    /*
+    // fake SCORM API as this is not SCORM-packaged
+    window.API = (function () {
+      var data = {
+        "cmi.core.student_id": "000100",
+        "cmi.core.student_name": "Student, Joe",
+        "cmi.core.lesson_location": "",
+        "cmi.core.lesson_status": "not attempted",
+        "cmi.suspend_data": ""
+      };
+      return {
+        LMSInitialize: function () {
+          return "true";
+        },
+        LMSCommit: function () {
+          return "true";
+        },
+        LMSFinish: function () {
+          return "true";
+        },
+        LMSGetValue: function (model) {
+          return data[model] || "";
+        },
+        LMSSetValue: function (model, value) {
+          data[model] = value;
+          return "true";
+        },
+        LMSGetLastError: function () {
+          return "0";
+        },
+        LMSGetErrorString: function (errorCode) {
+          return "No error";
+        },
+        LMSGetDiagnostic: function (errorCode) {
+          return "No error";
+        }
+      };
+    })();
+    */
+  </script>
+
+  <script src="https://cic-ee4m.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<script type="text/javascript" src="bundle.js"></script></body>
+
+</html>

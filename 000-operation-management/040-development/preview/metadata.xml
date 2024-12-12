@@ -5,7 +5,7 @@
     <metadataSchema>ADL SCORM 1.2</metadataSchema>
     <identifier>
       <catalog>URI</catalog>
-      <entry>AF.EE4M.CICOMCourse.5add6eb8-d637-4e0d-a853-aab406d28eec</entry>
+      <entry>AF.EE4M.CICOMCourse.f36b5653-07b0-4f71-9d31-714e33ca5b33</entry>
     </identifier>
     <language>en-US</language>
     <contribute>
@@ -24,14 +24,14 @@ URL:http://ee4m.eu/
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2024-12-12</dateTime>
-        <description language="en-US"><![CDATA[1733997565435]]></description>
+        <description language="en-US"><![CDATA[1733997630633]]></description>
       </date>
     </contribute>
   </metametadata>
   <general>
     <identifier>
       <catalog>URI</catalog>
-      <entry>AF.EE4M.CICOMCourse.5add6eb8-d637-4e0d-a853-aab406d28eec</entry>
+      <entry>AF.EE4M.CICOMCourse.f36b5653-07b0-4f71-9d31-714e33ca5b33</entry>
     </identifier>
     <title>
       <string language="en-US"><![CDATA[CIC OM Course]]></string>
@@ -78,7 +78,7 @@ URL:http://ee4m.eu/
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2024-12-12</dateTime>
-        <description language="en-US"><![CDATA[1733997565435]]></description>
+        <description language="en-US"><![CDATA[1733997630633]]></description>
       </date>
     </contribute>
     <contribute>
@@ -97,7 +97,7 @@ URL:http://ee4m.eu/
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2024-12-12</dateTime>
-        <description language="en-US"><![CDATA[1733997565435]]></description>
+        <description language="en-US"><![CDATA[1733997630633]]></description>
       </date>
     </contribute>
     <contribute>
@@ -117,7 +117,7 @@ URL:http://ee4m.eu/
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2024-12-12</dateTime>
-        <description language="en-US"><![CDATA[1733997565435]]></description>
+        <description language="en-US"><![CDATA[1733997630633]]></description>
       </date>
     </contribute>
     <contribute>
@@ -136,7 +136,7 @@ URL:http://ee4m.eu/
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2024-12-12</dateTime>
-        <description language="en-US"><![CDATA[1733997565435]]></description>
+        <description language="en-US"><![CDATA[1733997630633]]></description>
       </date>
     </contribute>
   </lifeCycle>
@@ -144,7 +144,7 @@ END:VCARD  ]]></entity>
     <format>text/html</format>
     <format>application/x-javascript</format>
     <format>text/css</format>
-    <size/>
+    <size>1815529</size>
     <location>index.html</location>
     <duration>
       <duration>PT0H0M0S</duration>

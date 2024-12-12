@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<manifest identifier="AF.EE4M.CICOMCourse.8fa0c14e-36b0-44f2-bc18-06fd4e3fb30a" version="1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="AF.EE4M.CICOMCourse.86b2a869-1119-409a-a520-04bf3de631d1" version="1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
@@ -8,7 +8,7 @@
   <organizations default="EE4M">
     <organization identifier="EE4M">
       <title>CIC OM Course</title>
-      <item identifier="item_AF.EE4M.CICOMCourse.8fa0c14e-36b0-44f2-bc18-06fd4e3fb30a" identifierref="resource_AF.EE4M.CICOMCourse.8fa0c14e-36b0-44f2-bc18-06fd4e3fb30a">
+      <item identifier="item_AF.EE4M.CICOMCourse.86b2a869-1119-409a-a520-04bf3de631d1" identifierref="resource_AF.EE4M.CICOMCourse.86b2a869-1119-409a-a520-04bf3de631d1">
         <title>CIC OM Course</title>
         <adlcp:masteryscore>80</adlcp:masteryscore>
         <metadata>
@@ -30,7 +30,7 @@
       <schemaversion>1.2</schemaversion>
       <adlcp:location>metadata.xml</adlcp:location>
     </metadata>
-    <resource identifier="resource_AF.EE4M.CICOMCourse.8fa0c14e-36b0-44f2-bc18-06fd4e3fb30a" type="webcontent" href="index.html" adlcp:scormtype="sco">
+    <resource identifier="resource_AF.EE4M.CICOMCourse.86b2a869-1119-409a-a520-04bf3de631d1" type="webcontent" href="index.html" adlcp:scormtype="sco">
       <metadata>
         <schema>ADL SCORM</schema>
         <schemaversion>1.2</schemaversion>
