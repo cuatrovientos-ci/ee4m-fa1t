@@ -11,13 +11,21 @@
               "id": 1,
               "title": "Unit 1.1.1: Introduction to Operations Management",
               "content": {
-                "video": "https://drive.google.com/file/d/11dbwM1mzc6ZE7qdU0AihbqBsaLpkz6Ao/preview",
+                "video": "https://drive.google.com/file/d/1fIcoAEQerxJR2tnCkxMspdES8CzDtBKu/preview",
                 "textbook": "https://anderfrago.github.io/ee4m-cic/000-operation-management/010-directing-the-operation/011-what-is-om.pdf", 
-                "exercise": "https://cic-ee4m.h5p.com/content/1292391264061670677/embed",   
                 "slides": "https://docs.google.com/presentation/d/11_cPkys-tAqRFobsr5qhF0gByjtxOSH8/preview",
                 "quiz": "https://quizlet.com/953834214/match/embed?i=13hssg&x=1jj1"             
               }
-            }              
+            }    ,
+            {
+              "id": 2,
+              "title": "Unit 1.1.2: What is Operations Management",
+              "content": {
+                "video": "https://drive.google.com/file/d/11dbwM1mzc6ZE7qdU0AihbqBsaLpkz6Ao/preview",
+                "exercise": "https://cic-ee4m.h5p.com/content/1292391264061670677/embed",   
+                "quiz": "https://quizlet.com/953834214/match/embed?i=13hssg&x=1jj1"             
+              }
+            }                
           ]
         },
         {

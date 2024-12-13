@@ -5,11 +5,24 @@
       "courses": [
         {
           "id": 1,
-          "title": "Course 4.1: Operations improvement",
+          "title": "Course 4.1: Introduction to Development",
           "units": [
             {
               "id": 1,
-              "title": "Unit 4.1.1: Operations improvement",
+              "title": "Unit 4.1.1: Introduction to Development",
+              "content": {
+                "video": "https://drive.google.com/file/d/1fM6dlyO7zwVoyK6csWHlFE2_UaHZ0V-x/preview"
+              }
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Course 4.2: Operations improvement",
+          "units": [
+            {
+              "id": 1,
+              "title": "Unit 4.2.1: Operations improvement",
               "content": {
                 "textbook": "https://anderfrago.github.io/ee4m-cic/000-operation-management/040-development/041-operations-improvement.pdf",
                 "slides": "https://docs.google.com/presentation/d/115JPvIZrPr9tBfCc0DaE4ebFkKeSxciE/preview",
@@ -18,7 +31,7 @@
             },
             {
               "id": 2,
-              "title": "Unit 4.1.2: A Process Perspective",
+              "title": "Unit 4.2.2: A Process Perspective",
               "content": {
                 "video": "https://drive.google.com/file/d/1fBIhWp_dtgKJukSPVqPM6S6iUc7aF65D/preview"
               }
@@ -26,12 +39,12 @@
           ]
         },
         {
-          "id": 2,
-          "title": "Course 4.2: Lean operations",
+          "id": 3,
+          "title": "Course 4.3: Lean operations",
           "units": [
             {
               "id": 1,
-              "title": "Unit 4.2.2: Introduction to Lean Operations",
+              "title": "Unit 4.3.2: Introduction to Lean Operations",
               "content": {
                 "textbook": "https://anderfrago.github.io/ee4m-cic/000-operation-management/040-development/042-lean-operations.pdf",
                 "slides": "https://docs.google.com/presentation/d/1eK1PhYby5cHw37c0WDZ2KcHgAZnOgO8B/preview"
@@ -40,17 +53,17 @@
           ]
         },
         {
-          "id": 3,
-          "title": "Course 4.3: Project Management",
+          "id": 4,
+          "title": "Course 4.4: Project Management",
           "units": [
             {
               "id": 1,
-              "title": "Unit 4.3.1: Scrum",
+              "title": "Unit 4.4.1: Scrum",
               "content": {}
             },
             {
               "id": 2,
-              "title": "Unit 4.3.2: Kanban",
+              "title": "Unit 4.4.2: Kanban",
               "content": {}
             }
           ]

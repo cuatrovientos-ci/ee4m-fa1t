@@ -1,54 +1,62 @@
 {
-    "modules": [
-      {
-        "title": "Module 2.0: Design the operation",
-        "courses": [
-          {
-            "id": 1,
-            "title": "Course 2.1: Design the operation",
-            "units": [
-              {
-                "id": 1,
-                "title": "Unit 2.1.1: Process design    ",
-                "content": {
-                    "video": "https://drive.google.com/file/d/1NQn9sXbYCIFcvJHCTKhXv_6f6k6DxqCQ/preview",
-                  "textbook": "https://anderfrago.github.io/ee4m-cic/000-operation-management/020-design-the-operation/021-design-the-operation.pdf",
-                  "slides": "https://docs.google.com/presentation/d/11mx9u1Ls57_P4G2uhxeuGj-QYe06M0EE/preview",
-                  "exercise": "https://cic-ee4m.h5p.com/content/1292402315039497427/embed",
-                  "quiz": "https://quizlet.com/956318209/match/embed?i=13hssg&x=1jj1"
-                }
-              }              
-            ]
-          },
-          {
-            "id": 2,
-            "title": "Course 2.2: Business Process Management",
-            "units": [
-              {
-                "id": 1,
-                "title": "Unit 2.2.1: Business Process Management",
-                "content": {
-                    "textbook": "https://anderfrago.github.io/ee4m-cic/000-operation-management/020-design-the-operation/022-design-bpm.pdf",
-                    "exercise": "https://anderfrago.github.io/ee4m-cic/000-operation-management/020-design-the-operation/022-design-bpm-exercises.pdf"
-                }
+  "modules": [
+    {
+      "title": "Module 2.0: Design the operation",
+      "courses": [
+        {
+          "id": 1,
+          "title": "Course 2.1: Design the operation",
+          "units": [
+            {
+              "id": 1,
+              "title": "Unit 2.1.1: Introduction to Process design    ",
+              "content": {
+                "video": "https://drive.google.com/file/d/1fI-Jpz9RRbCc2MTvfC1LuCCPkEUJeHTU/preview",
+                "textbook": "https://anderfrago.github.io/ee4m-cic/000-operation-management/020-design-the-operation/021-design-the-operation.pdf",
+                "slides": "https://docs.google.com/presentation/d/11mx9u1Ls57_P4G2uhxeuGj-QYe06M0EE/preview",
+                "exercise": "https://cic-ee4m.h5p.com/content/1292402315039497427/embed",
+                "quiz": "https://quizlet.com/956318209/match/embed?i=13hssg&x=1jj1"
               }
-            ]
-          },
-          {
-            "id": 3,
-            "title": "Course 2.3: Python for Data Science",
-            "units": [
-              {
-                "id": 1,
-                "title": "Unit 2.3.1: Python for Data Science",
-                "content": {
-                    "textbook": "https://ander-frago-landa.gitbook.io/python-for-data-analysis"
-                }
+            },
+            {
+              "id": 2,
+              "title": "Unit 2.1.2: Process design    ",
+              "content": {
+                "video": "https://drive.google.com/file/d/1NQn9sXbYCIFcvJHCTKhXv_6f6k6DxqCQ/preview",
+                "exercise": "https://cic-ee4m.h5p.com/content/1292402315039497427/embed",
+                "quiz": "https://quizlet.com/956318209/match/embed?i=13hssg&x=1jj1"
               }
-            ]
-          }
-        ]
-      }
-    ]
-  }
-  
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Course 2.2: Business Process Management",
+          "units": [
+            {
+              "id": 1,
+              "title": "Unit 2.2.1: Business Process Management",
+              "content": {
+                "textbook": "https://anderfrago.github.io/ee4m-cic/000-operation-management/020-design-the-operation/022-design-bpm.pdf",
+                "exercise": "https://anderfrago.github.io/ee4m-cic/000-operation-management/020-design-the-operation/022-design-bpm-exercises.pdf"
+              }
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Course 2.3: Python for Data Science",
+          "units": [
+            {
+              "id": 1,
+              "title": "Unit 2.3.1: Python for Data Science",
+              "content": {
+                "textbook": "https://ander-frago-landa.gitbook.io/python-for-data-analysis"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

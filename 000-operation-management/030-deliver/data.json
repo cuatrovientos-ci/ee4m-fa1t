@@ -5,11 +5,24 @@
       "courses": [
         {
           "id": 1,
-          "title": "Course 3.1: Planning and control",
+          "title": "Course 3.1: Introduction to Deliver",
           "units": [
             {
               "id": 1,
-              "title": "Unit 3.1.1: Introduction to planning and control",
+              "title": "Unit 3.2.1: Introduction to Deliver",
+              "content": {
+                "video": "https://drive.google.com/file/d/1fM1pvrf5WscTRZul2uh-Ozcz-x8yI-q3/preview"              
+              }
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Course 3.2: Planning and control",
+          "units": [
+            {
+              "id": 1,
+              "title": "Unit 3.2.1: Introduction to planning and control",
               "content": {
                 "video": "https://drive.google.com/file/d/1Mgu9hQw88PAvOMqU1zktoKOc7ARiva1i/preview",
                 "textbook": "https://anderfrago.github.io/ee4m-cic/000-operation-management/030-deliver/031-planning-and-control.pdf",
@@ -21,12 +34,12 @@
           ]
         },
         {
-          "id": 2,
-          "title": "Course 3.2: Capacity management",
+          "id": 3,
+          "title": "Course 3.3: Capacity management",
           "units": [
             {
               "id": 1,
-              "title": "Unit 3.2.1: Introduction to capacity management",
+              "title": "Unit 3.3.1: Introduction to capacity management",
               "content": {
                 "video": "https://drive.google.com/file/d/1-JS4z1uA6cMqpKuo72AUpH9n1zVhbVqc/preview",
                 "textbook": "https://anderfrago.github.io/ee4m-cic/000-operation-management/030-deliver/032-capacity-management.pdf",
@@ -36,30 +49,30 @@
           ]
         },
         {
-          "id": 3,
-          "title": "Course 3.1: Forecasting",
+          "id": 4,
+          "title": "Course 3.4: Forecasting",
           "units": [
             {
               "id": 1,
-              "title": "Unit 3.1.3: Introduction to Forecasting",
+              "title": "Unit 3.4.1: Introduction to Forecasting",
               "content": {
                 "textbook": "https://anderfrago.github.io/ee4m-cic/000-operation-management/030-deliver/033-forecasting.pdf"
               }
             },
             {
               "id": 2,
-              "title": "Unit 3.1.3: Exercises of Forecasting",
+              "title": "Unit 3.4.2: Exercises of Forecasting",
               "content": {}
             }
           ]
         },
         {
-          "id": 4,
-          "title": "Course 3.3: Supply chain management",
+          "id": 5,
+          "title": "Course 3.5: Supply chain management",
           "units": [
             {
               "id": 1,
-              "title": "Unit 3.3.1: Introduction to supply chain management",
+              "title": "Unit 3.5.1: Introduction to supply chain management",
               "content": {
                 "textbook": "https://anderfrago.github.io/ee4m-cic/000-operation-management/030-deliver/034-supply-chain-management.pdf",
                 "slides": "https://docs.google.com/presentation/d/1Nfg5ItCc3RudlHGCyfKN4stHUZ5CcjH2/preview",
@@ -68,14 +81,14 @@
             },
             {
               "id": 2,
-              "title": "Unit 3.3.2: How is the supply chain managed",
+              "title": "Unit 3.5.2: How is the supply chain managed",
               "content": {
                 "video": "https://drive.google.com/file/d/1ereR5EKNJXfKGWRadDhLXYvTC1doGm_H/preview"
               }
             },
             {
               "id": 3,
-              "title": "Unit 3.3.3: Dynamics of supply chain",
+              "title": "Unit 3.5.3: Dynamics of supply chain",
               "content": {
                 "video": "https://drive.google.com/file/d/1f-1vDQ_njFf4Sj_kD8hu-zscygYYMXSA/preview"
               }
@@ -83,12 +96,12 @@
           ]
         },
         {
-          "id": 5,
-          "title": "Course 3.4: Inventory",
+          "id": 6,
+          "title": "Course 3.6: Inventory",
           "units": [
             {
               "id": 1,
-              "title": "Unit 3.4.1: Introduction to inventory",
+              "title": "Unit 3.6.1: Introduction to inventory",
               "content": {
                 "textbook": "https://anderfrago.github.io/ee4m-cic/000-operation-management/030-deliver/035-inventory.pdf",
                 "slides": "https://docs.google.com/presentation/d/10IlH5NL-JmkDaBoUwTogpGCfBhm0QpLZ/preview",
@@ -97,7 +110,7 @@
             },
             {
               "id": 2,
-              "title": "Unit 3.4.2: The News Vendor (Single-Period) Inventory Problem",
+              "title": "Unit 3.6.2: The News Vendor (Single-Period) Inventory Problem",
               "content": {
                 "video": "https://drive.google.com/file/d/1f9QiN6AY9It0iAnkWQU4QZApknW6EAqb/preview"
               }
