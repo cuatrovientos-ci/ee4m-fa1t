@@ -15,12 +15,7 @@ The course offers an essential overview of managing organizational operations. I
   - Innovation and Problem-Solving Skills
   - Strategic Thinking
 
-{% assign pages = site.pages | sort: 'title'    %}
-{% for module in pages %}
-{% if module.layout == "page" %}
-[{{ module.title }}]({{ module.permalink }})
-{% endif %}
-{% endfor %}
+
 
 
 
