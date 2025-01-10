@@ -57,19 +57,6 @@
               }
             }              
           ]
-        },
-        {
-          "id": 4,
-          "title": "Course 1.4: PL-300 Microsoft Power BI Data Analyst ",
-          "units": [
-            {
-              "id": 1,
-              "title": "Unit 1.4.1: Introduction to Power BI",
-              "content": {
-                "textbook": "https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst"
-              }
-            }              
-          ]
         }
       ]
     }
